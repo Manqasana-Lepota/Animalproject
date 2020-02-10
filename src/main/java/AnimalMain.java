@@ -1,4 +1,4 @@
-public class AnimalFarm {
+public class AnimalMain {
 
     public static void main (String[] args) {
 
